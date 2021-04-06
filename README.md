@@ -1,4 +1,4 @@
-# Sacco
+# sacco
 Savings ,loan and shares app
 Under the general principal of financial safety and soundness, the purpose of the SACCO is basically to improve the community welfare, by providing its members with:
 
